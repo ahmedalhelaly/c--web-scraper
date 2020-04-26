@@ -34,7 +34,6 @@ namespace WebScraper
                     {
                         _items = new Items();
                         _items.country = country;
-                        // why use HttpUtility.HtmlDecode ?
                         _items.total_cases = row.SelectSingleNode("td[2]").InnerText.Trim();
                         _items.new_cases = row.SelectSingleNode("td[3]").InnerText.Trim();
                         _items.total_deaths = row.SelectSingleNode("td[4]").InnerText.Trim();
