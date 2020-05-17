@@ -54602,3 +54602,1791 @@ Data has been inserted for 215
 5:45:47 AM Sunday, May 17, 2020 :
 Database Updated.
 -------------------------------
+
+6:14:15 AM Sunday, May 17, 2020 :
+Connected to Firebase Realtime Database.
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for north america
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for europe
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for south america
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for asia
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for africa
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for oceania
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for world
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for usa
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for spain
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for russia
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for uk
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for brazil
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for italy
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for france
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for germany
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for turkey
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for iran
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for india
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for peru
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for canada
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for belgium
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for saudi arabia
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for mexico
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for netherlands
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for chile
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for pakistan
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for ecuador
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for qatar
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for switzerland
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for sweden
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for portugal
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for belarus
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for singapore
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for ireland
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for uae
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for bangladesh
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for poland
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for ukraine
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for indonesia
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for romania
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for israel
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for japan
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for austria
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for colombia
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for south africa
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for kuwait
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for philippines
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for dominican republic
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for egypt
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for s. korea
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for denmark
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for serbia
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for panama
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for czechia
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for norway
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for argentina
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for australia
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for malaysia
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for algeria
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for bahrain
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for morocco
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for afghanistan
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for finland
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for moldova
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for kazakhstan
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for ghana
+-------------------------------
+
+6:14:18 AM Sunday, May 17, 2020 :
+Data has been inserted for nigeria
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for oman
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for armenia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for luxembourg
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for bolivia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for hungary
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for iraq
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for azerbaijan
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for cameroon
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for thailand
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for greece
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for uzbekistan
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for guinea
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for honduras
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for senegal
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for sudan
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for bosnia and herzegovina
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for croatia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for bulgaria
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for ivory coast
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for cuba
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for iceland
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for estonia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for guatemala
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for north macedonia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for lithuania
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for new zealand
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for slovakia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for slovenia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for drc
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for somalia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for djibouti
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for tajikistan
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for gabon
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for mayotte
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for el salvador
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for kyrgyzstan
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for maldives
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for hong kong
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for tunisia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for latvia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for guinea-bissau
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for sri lanka
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for albania
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for cyprus
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for lebanon
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for niger
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for costa rica
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for mali
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for kenya
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for burkina faso
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for paraguay
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for andorra
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for uruguay
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for diamond princess
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for georgia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for zambia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for san marino
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for jordan
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for equatorial guinea
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for channel islands
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for malta
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for jamaica
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for tanzania
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for venezuela
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for chad
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for sierra leone
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for r&eacute;union
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for taiwan
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for congo
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for palestine
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for haiti
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for benin
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for isle of man
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for mauritius
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for cabo verde
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for car
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for montenegro
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for vietnam
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for ethiopia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for togo
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for nepal
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for rwanda
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for madagascar
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for south sudan
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for sao tome and principe
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for uganda
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for liberia
+-------------------------------
+
+6:14:19 AM Sunday, May 17, 2020 :
+Data has been inserted for eswatini
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for french guiana
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for martinique
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for faeroe islands
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for myanmar
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for guadeloupe
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for gibraltar
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for brunei
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for mongolia
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for mozambique
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for bermuda
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for yemen
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for cambodia
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for guyana
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for trinidad and tobago
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for aruba
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for bahamas
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for monaco
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for cayman islands
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for barbados
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for liechtenstein
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for sint maarten
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for libya
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for malawi
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for french polynesia
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for syria
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for angola
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for macao
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for zimbabwe
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for mauritania
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for saint martin
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for eritrea
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for nicaragua
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for antigua and barbuda
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for botswana
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for timor-leste
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for gambia
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for grenada
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for bhutan
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for laos
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for belize
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for fiji
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for new caledonia
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for saint lucia
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for st. vincent grenadines
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for cura&ccedil;ao
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for dominica
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for namibia
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for burundi
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for saint kitts and nevis
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for falkland islands
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for turks and caicos
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for vatican city
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for comoros
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for montserrat
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for greenland
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for seychelles
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for suriname
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for ms zaandam
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for british virgin islands
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for papua new guinea
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for caribbean netherlands
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for st. barth
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for western sahara
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for anguilla
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for lesotho
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for saint pierre miquelon
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Data has been inserted for china
+-------------------------------
+
+6:14:20 AM Sunday, May 17, 2020 :
+Database Updated.
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for north america
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for europe
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for south america
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for asia
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for africa
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for oceania
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for world
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for usa
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for spain
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for russia
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for uk
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for brazil
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for italy
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for france
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for germany
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for turkey
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for iran
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for india
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for peru
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for canada
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for belgium
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for saudi arabia
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for mexico
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for netherlands
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for chile
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for pakistan
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for ecuador
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for qatar
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for switzerland
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for sweden
+-------------------------------
+
+6:19:16 AM Sunday, May 17, 2020 :
+Data has been inserted for portugal
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for belarus
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for singapore
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for ireland
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for uae
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for bangladesh
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for poland
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for ukraine
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for indonesia
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for romania
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for israel
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for japan
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for austria
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for colombia
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for south africa
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for kuwait
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for philippines
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for dominican republic
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for egypt
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for s. korea
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for denmark
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for serbia
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for panama
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for czechia
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for norway
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for argentina
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for australia
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for malaysia
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for algeria
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for bahrain
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for morocco
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for afghanistan
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for finland
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for moldova
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for kazakhstan
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for ghana
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for nigeria
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for oman
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for armenia
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for luxembourg
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for bolivia
+-------------------------------
+
+6:19:17 AM Sunday, May 17, 2020 :
+Data has been inserted for hungary
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for iraq
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for azerbaijan
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for cameroon
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for thailand
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for greece
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for uzbekistan
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for guinea
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for honduras
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for senegal
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for sudan
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for bosnia and herzegovina
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for croatia
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for bulgaria
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for ivory coast
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for cuba
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for iceland
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for estonia
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for guatemala
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for north macedonia
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for lithuania
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for new zealand
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for slovakia
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for slovenia
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for drc
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for somalia
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for djibouti
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for tajikistan
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for gabon
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for mayotte
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for el salvador
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for kyrgyzstan
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for maldives
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for hong kong
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for tunisia
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for latvia
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for guinea-bissau
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for sri lanka
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for albania
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for cyprus
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for lebanon
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for niger
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for costa rica
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for mali
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for kenya
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for burkina faso
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for paraguay
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for andorra
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for uruguay
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for diamond princess
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for georgia
+-------------------------------
+
+6:19:18 AM Sunday, May 17, 2020 :
+Data has been inserted for zambia
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for san marino
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for jordan
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for equatorial guinea
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for channel islands
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for malta
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for jamaica
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for tanzania
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for venezuela
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for chad
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for sierra leone
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for r&eacute;union
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for taiwan
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for congo
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for palestine
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for haiti
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for benin
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for isle of man
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for mauritius
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for cabo verde
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for car
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for montenegro
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for vietnam
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for ethiopia
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for togo
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for nepal
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for rwanda
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for madagascar
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for south sudan
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for sao tome and principe
+-------------------------------
+
+6:19:19 AM Sunday, May 17, 2020 :
+Data has been inserted for uganda
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for liberia
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for eswatini
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for french guiana
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for martinique
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for faeroe islands
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for myanmar
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for guadeloupe
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for gibraltar
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for brunei
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for mongolia
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for mozambique
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for bermuda
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for yemen
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for cambodia
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for guyana
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for trinidad and tobago
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for aruba
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for bahamas
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for monaco
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for cayman islands
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for barbados
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for liechtenstein
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for sint maarten
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for libya
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for malawi
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for french polynesia
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for syria
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for angola
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for macao
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for zimbabwe
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for mauritania
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for saint martin
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for eritrea
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for nicaragua
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for antigua and barbuda
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for botswana
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for timor-leste
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for gambia
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for grenada
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for bhutan
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for laos
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for belize
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for fiji
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for new caledonia
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for saint lucia
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for st. vincent grenadines
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for cura&ccedil;ao
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for dominica
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for namibia
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for burundi
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for saint kitts and nevis
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for falkland islands
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for turks and caicos
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for vatican city
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for comoros
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for montserrat
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for greenland
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for seychelles
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for suriname
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for ms zaandam
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for british virgin islands
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for papua new guinea
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for caribbean netherlands
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for st. barth
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for western sahara
+-------------------------------
+
+6:19:20 AM Sunday, May 17, 2020 :
+Data has been inserted for anguilla
+-------------------------------
+
+6:19:21 AM Sunday, May 17, 2020 :
+Data has been inserted for lesotho
+-------------------------------
+
+6:19:21 AM Sunday, May 17, 2020 :
+Data has been inserted for saint pierre miquelon
+-------------------------------
+
+6:19:21 AM Sunday, May 17, 2020 :
+Data has been inserted for china
+-------------------------------
+
+6:19:21 AM Sunday, May 17, 2020 :
+Database Updated.
+-------------------------------

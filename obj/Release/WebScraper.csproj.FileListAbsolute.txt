@@ -1,0 +1,5 @@
+C:\Users\ahmed\source\repos\WebScraper\WebScraper\obj\Release\WebScraper.csproj.App.config
+C:\Users\ahmed\source\repos\WebScraper\WebScraper\obj\Release\WebScraper.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\WebScraper\WebScraper\obj\Release\WebScraper.ProjectInstaller.resources
+C:\Users\ahmed\source\repos\WebScraper\WebScraper\obj\Release\WebScraper.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\WebScraper\WebScraper\obj\Release\WebScraper.csproj.CoreCompileInputs.cache
