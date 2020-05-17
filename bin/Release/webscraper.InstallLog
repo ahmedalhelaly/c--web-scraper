@@ -218,3 +218,247 @@ Affected parameters are:
    logtoconsole = 
    logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
    assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Uninstalling assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Removing EventLog source WebScraper.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Installing service WebScraper...
+Creating EventLog source WebScraper in log Application...
+Rolling back assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Restoring event log to previous state for source WebScraper.
+Uninstalling assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Removing EventLog source WebScraper.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Installing service WebScraper...
+Creating EventLog source WebScraper in log Application...
+Rolling back assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Restoring event log to previous state for source WebScraper.
+Uninstalling assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Removing EventLog source WebScraper.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Installing service WebScraper...
+Creating EventLog source WebScraper in log Application...
+Rolling back assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Restoring event log to previous state for source WebScraper.
+Uninstalling assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Removing EventLog source WebScraper.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Installing service WebScraper...
+Creating EventLog source WebScraper in log Application...
+Rolling back assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Restoring event log to previous state for source WebScraper.
+Uninstalling assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Removing EventLog source WebScraper.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Installing service WebScraper...
+Creating EventLog source WebScraper in log Application...
+Rolling back assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Restoring event log to previous state for source WebScraper.
+Uninstalling assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Removing EventLog source WebScraper.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Installing service WebScraper...
+Creating EventLog source WebScraper in log Application...
+Rolling back assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Restoring event log to previous state for source WebScraper.
+Uninstalling assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Removing EventLog source WebScraper.
+Service WebScraper is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Installing service WebScraper...
+Service WebScraper has been successfully installed.
+Creating EventLog source WebScraper in log Application...
+Committing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Uninstalling assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Removing EventLog source WebScraper.
+Service WebScraper is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Installing service WebScraper...
+Service WebScraper has been successfully installed.
+Creating EventLog source WebScraper in log Application...
+Committing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Uninstalling assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Removing EventLog source WebScraper.
+Service WebScraper is being removed from the system...
+Service WebScraper was successfully removed from the system.
+Attempt to stop service WebScraper.
+Installing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Installing service WebScraper...
+Service WebScraper has been successfully installed.
+Creating EventLog source WebScraper in log Application...
+Committing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Uninstalling assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Removing EventLog source WebScraper.
+Service WebScraper is being removed from the system...
+Service WebScraper was successfully removed from the system.
+Attempt to stop service WebScraper.
+Installing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Installing service WebScraper...
+Service WebScraper has been successfully installed.
+Creating EventLog source WebScraper in log Application...
+Committing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Uninstalling assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Removing EventLog source WebScraper.
+Service WebScraper is being removed from the system...
+Service WebScraper was successfully removed from the system.
+Attempt to stop service WebScraper.
+Installing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Installing service WebScraper...
+Service WebScraper has been successfully installed.
+Creating EventLog source WebScraper in log Application...
+Committing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
