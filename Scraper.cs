@@ -34,7 +34,6 @@ namespace WebScraper
                     {
                         _items = new Items();
                         _items.country = country;
-<<<<<<< HEAD
                         // why use HttpUtility.HtmlDecode ?
                         _items.total_cases = row.SelectSingleNode("td[3]").InnerText.Trim();
                         _items.new_cases = row.SelectSingleNode("td[4]").InnerText.Trim();
@@ -44,7 +43,6 @@ namespace WebScraper
                         _items.active_cases = row.SelectSingleNode("td[8]").InnerText.Trim();
                         _items.critical_cases = row.SelectSingleNode("td[9]").InnerText.Trim();
                         _items.total_tests = row.SelectSingleNode("td[10]").InnerText.Trim();
-=======
                         _items.total_cases = row.SelectSingleNode("td[2]").InnerText.Trim();
                         _items.new_cases = row.SelectSingleNode("td[3]").InnerText.Trim();
                         _items.total_deaths = row.SelectSingleNode("td[4]").InnerText.Trim();
@@ -53,7 +51,6 @@ namespace WebScraper
                         _items.active_cases = row.SelectSingleNode("td[7]").InnerText.Trim();
                         _items.critical_cases = row.SelectSingleNode("td[8]").InnerText.Trim();
                         _items.total_tests = row.SelectSingleNode("td[13]").InnerText.Trim();
->>>>>>> b67463481edf8ee3ee3b0efdde153713a015bd7d
                         _items.last_updated = DateTime.Now.ToString("MM/dd/yyyy hh:mm:ss").Trim();
 
                         Item_List.Add(_items);
