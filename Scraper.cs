@@ -29,20 +29,20 @@ namespace WebScraper
             {
                 foreach (var row in table)
                 {
-                    var country = row.SelectSingleNode("td[1]").InnerText.Trim().ToLower();
+                    var country = row.SelectSingleNode("td[2]").InnerText.Trim().ToLower();
                     if (country.Length > 0 && !country.StartsWith("total"))
                     {
                         _items = new Items();
                         _items.country = country;
                         // why use HttpUtility.HtmlDecode ?
-                        _items.total_cases = row.SelectSingleNode("td[2]").InnerText.Trim();
-                        _items.new_cases = row.SelectSingleNode("td[3]").InnerText.Trim();
-                        _items.total_deaths = row.SelectSingleNode("td[4]").InnerText.Trim();
-                        _items.new_deaths = row.SelectSingleNode("td[5]").InnerText.Trim();
-                        _items.total_recovered = row.SelectSingleNode("td[6]").InnerText.Trim();
-                        _items.active_cases = row.SelectSingleNode("td[7]").InnerText.Trim();
-                        _items.critical_cases = row.SelectSingleNode("td[8]").InnerText.Trim();
-                        _items.total_tests = row.SelectSingleNode("td[11]").InnerText.Trim();
+                        _items.total_cases = row.SelectSingleNode("td[3]").InnerText.Trim();
+                        _items.new_cases = row.SelectSingleNode("td[4]").InnerText.Trim();
+                        _items.total_deaths = row.SelectSingleNode("td[5]").InnerText.Trim();
+                        _items.new_deaths = row.SelectSingleNode("td[6]").InnerText.Trim();
+                        _items.total_recovered = row.SelectSingleNode("td[7]").InnerText.Trim();
+                        _items.active_cases = row.SelectSingleNode("td[8]").InnerText.Trim();
+                        _items.critical_cases = row.SelectSingleNode("td[9]").InnerText.Trim();
+                        _items.total_tests = row.SelectSingleNode("td[10]").InnerText.Trim();
                         _items.last_updated = DateTime.Now.ToString("MM/dd/yyyy hh:mm:ss").Trim();
 
                         Item_List.Add(_items);

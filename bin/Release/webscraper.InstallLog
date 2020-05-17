@@ -147,3 +147,16 @@ Affected parameters are:
    logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\webscraper.InstallLog
    assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\webscraper.exe
 Restoring event log to previous state for source WebScraper.
+Installing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
+Installing service WebScraper...
+Service WebScraper has been successfully installed.
+Creating EventLog source WebScraper in log Application...
+Committing assembly 'C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.InstallLog
+   assemblypath = C:\Users\ahmed\source\repos\WebScraper\WebScraper\bin\Release\WebScraper.exe
